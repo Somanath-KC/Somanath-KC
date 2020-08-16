@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://avatars1.githubusercontent.com/u/34374123?s=460&u=7b9d17f08ca9349c00ed86ac732eb3b0cf9d6fd4&v=4">
+<img align="right" width="auto" height="400" src="https://avatars1.githubusercontent.com/u/34374123?s=460&u=7b9d17f08ca9349c00ed86ac732eb3b0cf9d6fd4&v=4">
 
 
 # Hi, I'm Somanath :wave:
