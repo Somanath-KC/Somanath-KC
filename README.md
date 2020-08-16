@@ -17,7 +17,7 @@ Under-Graduate Student. :man_technologist:
 
 ## Social media :mailbox_with_no_mail:
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square)](https://twitter.com/Somanath_KC)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square)](https://www.linkedin.com/in/somanath-kc/)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/Somanath_KC)](https://twitter.com/Somanath_KC)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/somanath-kc/)](https://www.linkedin.com/in/somanath-kc/)
 
 ---
