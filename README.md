@@ -1,4 +1,4 @@
-<img align="right" width="auto" height="400" src="https://github.com/Somanath-KC/Somanath-KC/blob/master/somanath-kc.jpg">
+<img align="right" width="auto" height="400" src="https://static9.depositphotos.com/1594920/1087/i/600/depositphotos_10879124-stock-photo-young-chimpanzee-simia-troglodytes-6.jpg">
 
 
 
