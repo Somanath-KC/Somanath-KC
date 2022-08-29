@@ -6,8 +6,6 @@
 
 Full-Stack | Software engineer :robot:. (In progress)
 
-Under-Graduate Student. :man_technologist:
-
 ## About me 
 
 :heart: Programming 
